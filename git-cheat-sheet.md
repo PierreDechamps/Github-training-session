@@ -15,6 +15,6 @@ Change workspace
 Change GitHub 2
 
 Change workspace 2
+![Local](IvXD.gif)
 
-
-![IvXD](https://user-images.githubusercontent.com/124137528/216935170-9c411ed9-2925-4b06-8719-da76d71ac93f.gif)
+![NotLocal](https://user-images.githubusercontent.com/124137528/216935170-9c411ed9-2925-4b06-8719-da76d71ac93f.gif)
